@@ -1,0 +1,14 @@
+h2 , p {
+    pointer-events: none
+}
+body {
+    background-color: rgb(209, 170, 202);
+    margin: 0 auto;
+    max-width: 660px;
+    padding-top: 50px;
+}
+.text{
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
